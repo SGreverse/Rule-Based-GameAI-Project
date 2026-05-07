@@ -1,0 +1,3016 @@
+fileFormatVersion: 2
+guid: 7083de0a7dc3e6142bd808695e4311e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1846520790634519750
+    second: Simple-Forest-Tileset 1_0
+  - first:
+      213: -2372146898737412331
+    second: Simple-Forest-Tileset 1_1
+  - first:
+      213: -3042939413961820219
+    second: Simple-Forest-Tileset 1_2
+  - first:
+      213: -5697998286552458962
+    second: Simple-Forest-Tileset 1_3
+  - first:
+      213: -254049916576740476
+    second: Simple-Forest-Tileset 1_4
+  - first:
+      213: 3711440991597378426
+    second: Simple-Forest-Tileset 1_5
+  - first:
+      213: 3316286783200163965
+    second: Simple-Forest-Tileset 1_6
+  - first:
+      213: 5757300402632534487
+    second: Simple-Forest-Tileset 1_7
+  - first:
+      213: 2177977139399476387
+    second: Simple-Forest-Tileset 1_8
+  - first:
+      213: 8479798069288853065
+    second: Simple-Forest-Tileset 1_9
+  - first:
+      213: -1732991835520645951
+    second: Simple-Forest-Tileset 1_10
+  - first:
+      213: -8872222777195747706
+    second: Simple-Forest-Tileset 1_11
+  - first:
+      213: -6700581890303163677
+    second: Simple-Forest-Tileset 1_12
+  - first:
+      213: -7877278515755773470
+    second: Simple-Forest-Tileset 1_13
+  - first:
+      213: -3904609557743856860
+    second: Simple-Forest-Tileset 1_14
+  - first:
+      213: 6432247039816729610
+    second: Simple-Forest-Tileset 1_15
+  - first:
+      213: 7133697088022201169
+    second: Simple-Forest-Tileset 1_16
+  - first:
+      213: -863694702520938908
+    second: Simple-Forest-Tileset 1_17
+  - first:
+      213: 5271843481274502495
+    second: Simple-Forest-Tileset 1_18
+  - first:
+      213: 4887229035274189072
+    second: Simple-Forest-Tileset 1_19
+  - first:
+      213: -8021557739203801938
+    second: Simple-Forest-Tileset 1_20
+  - first:
+      213: -1086903204279729899
+    second: Simple-Forest-Tileset 1_21
+  - first:
+      213: 8514716633348198351
+    second: Simple-Forest-Tileset 1_22
+  - first:
+      213: -591028374279979606
+    second: Simple-Forest-Tileset 1_23
+  - first:
+      213: -7073267257224683818
+    second: Simple-Forest-Tileset 1_24
+  - first:
+      213: 2963598612494337595
+    second: Simple-Forest-Tileset 1_25
+  - first:
+      213: -8407055198664785280
+    second: Simple-Forest-Tileset 1_26
+  - first:
+      213: -5223705190960075964
+    second: Simple-Forest-Tileset 1_27
+  - first:
+      213: -2199881316542469047
+    second: Simple-Forest-Tileset 1_28
+  - first:
+      213: -3946503237345369802
+    second: Simple-Forest-Tileset 1_29
+  - first:
+      213: -978935843606801592
+    second: Simple-Forest-Tileset 1_30
+  - first:
+      213: 4740175164734671459
+    second: Simple-Forest-Tileset 1_31
+  - first:
+      213: -9105515943977155287
+    second: Simple-Forest-Tileset 1_32
+  - first:
+      213: 7786462804985243561
+    second: Simple-Forest-Tileset 1_33
+  - first:
+      213: 1101294940986640871
+    second: Simple-Forest-Tileset 1_34
+  - first:
+      213: -8691913048922424092
+    second: Simple-Forest-Tileset 1_35
+  - first:
+      213: 4912357504615185278
+    second: Simple-Forest-Tileset 1_36
+  - first:
+      213: -4759340283147108126
+    second: Simple-Forest-Tileset 1_37
+  - first:
+      213: 7430539835207920613
+    second: Simple-Forest-Tileset 1_38
+  - first:
+      213: -8166806952001673494
+    second: Simple-Forest-Tileset 1_39
+  - first:
+      213: 7780866691977244575
+    second: Simple-Forest-Tileset 1_40
+  - first:
+      213: -6438828213844368830
+    second: Simple-Forest-Tileset 1_41
+  - first:
+      213: -6284665903243017000
+    second: Simple-Forest-Tileset 1_42
+  - first:
+      213: -7390998550998032030
+    second: Simple-Forest-Tileset 1_43
+  - first:
+      213: 3859272472099011856
+    second: Simple-Forest-Tileset 1_44
+  - first:
+      213: 4758033898230529809
+    second: Simple-Forest-Tileset 1_45
+  - first:
+      213: 6661324109370198555
+    second: Simple-Forest-Tileset 1_46
+  - first:
+      213: -8839402079856047760
+    second: Simple-Forest-Tileset 1_47
+  - first:
+      213: -4900518694050923502
+    second: Simple-Forest-Tileset 1_48
+  - first:
+      213: -838762842152032462
+    second: Simple-Forest-Tileset 1_49
+  - first:
+      213: 8648618944061571748
+    second: Simple-Forest-Tileset 1_50
+  - first:
+      213: 7495216542773570390
+    second: Simple-Forest-Tileset 1_51
+  - first:
+      213: -5434370180225311193
+    second: Simple-Forest-Tileset 1_52
+  - first:
+      213: -3509065182539337267
+    second: Simple-Forest-Tileset 1_53
+  - first:
+      213: 3521818414270973710
+    second: Simple-Forest-Tileset 1_54
+  - first:
+      213: -864749997886918564
+    second: Simple-Forest-Tileset 1_55
+  - first:
+      213: -3042383980577817721
+    second: Simple-Forest-Tileset 1_56
+  - first:
+      213: -2533375417258435826
+    second: Simple-Forest-Tileset 1_57
+  - first:
+      213: 903421746534207385
+    second: Simple-Forest-Tileset 1_58
+  - first:
+      213: 6569763254372601841
+    second: Simple-Forest-Tileset 1_59
+  - first:
+      213: -2558047452143745701
+    second: Simple-Forest-Tileset 1_60
+  - first:
+      213: -336541948008629141
+    second: Simple-Forest-Tileset 1_61
+  - first:
+      213: 8593018142705602091
+    second: Simple-Forest-Tileset 1_62
+  - first:
+      213: 3564454713188290587
+    second: Simple-Forest-Tileset 1_63
+  - first:
+      213: -7133397424908386250
+    second: Simple-Forest-Tileset 1_64
+  - first:
+      213: -1565009453475227335
+    second: Simple-Forest-Tileset 1_65
+  - first:
+      213: -2507992779670160763
+    second: Simple-Forest-Tileset 1_66
+  - first:
+      213: 3837639454588544094
+    second: Simple-Forest-Tileset 1_67
+  - first:
+      213: 5816869313893065798
+    second: Simple-Forest-Tileset 1_68
+  - first:
+      213: -8022396005396131124
+    second: Simple-Forest-Tileset 1_69
+  - first:
+      213: -2133333592081345337
+    second: Simple-Forest-Tileset 1_70
+  - first:
+      213: 7779764334697263381
+    second: Simple-Forest-Tileset 1_71
+  - first:
+      213: -152746781145886887
+    second: Simple-Forest-Tileset 1_72
+  - first:
+      213: 767391697425236869
+    second: Simple-Forest-Tileset 1_73
+  - first:
+      213: -6770272246673664906
+    second: Simple-Forest-Tileset 1_74
+  - first:
+      213: 680993807328351561
+    second: Simple-Forest-Tileset 1_75
+  - first:
+      213: 8212143362276863594
+    second: Simple-Forest-Tileset 1_76
+  - first:
+      213: 8194217632128555242
+    second: Simple-Forest-Tileset 1_77
+  - first:
+      213: 3085985028418961435
+    second: Simple-Forest-Tileset 1_78
+  - first:
+      213: 7112736282737104340
+    second: Simple-Forest-Tileset 1_79
+  - first:
+      213: -8252791836431600538
+    second: Simple-Forest-Tileset 1_80
+  - first:
+      213: -5167798055156723154
+    second: Simple-Forest-Tileset 1_81
+  - first:
+      213: -1198819978711148569
+    second: Simple-Forest-Tileset 1_82
+  - first:
+      213: 7217931782253606900
+    second: Simple-Forest-Tileset 1_83
+  - first:
+      213: 4687425393495608883
+    second: Simple-Forest-Tileset 1_84
+  - first:
+      213: 7368712024334116287
+    second: Simple-Forest-Tileset 1_85
+  - first:
+      213: 481718453878380177
+    second: Simple-Forest-Tileset 1_86
+  - first:
+      213: -404757419742013772
+    second: Simple-Forest-Tileset 1_87
+  - first:
+      213: 3289861472675529846
+    second: Simple-Forest-Tileset 1_88
+  - first:
+      213: -1500673188259718025
+    second: Simple-Forest-Tileset 1_89
+  - first:
+      213: -6534913807557721283
+    second: Simple-Forest-Tileset 1_90
+  - first:
+      213: -8099403430467004514
+    second: Simple-Forest-Tileset 1_91
+  - first:
+      213: 3337332102073356995
+    second: Simple-Forest-Tileset 1_92
+  - first:
+      213: -3018088455498802659
+    second: Simple-Forest-Tileset 1_93
+  - first:
+      213: 8533449021182683516
+    second: Simple-Forest-Tileset 1_94
+  - first:
+      213: 2777770465291464189
+    second: Simple-Forest-Tileset 1_95
+  - first:
+      213: -6386115157966516391
+    second: Simple-Forest-Tileset 1_96
+  - first:
+      213: 9106632437744137225
+    second: Simple-Forest-Tileset 1_97
+  - first:
+      213: 7348397167325405666
+    second: Simple-Forest-Tileset 1_98
+  - first:
+      213: -6268095404780051742
+    second: Simple-Forest-Tileset 1_99
+  - first:
+      213: 6396191628644025415
+    second: Simple-Forest-Tileset 1_100
+  - first:
+      213: -702286273181578939
+    second: Simple-Forest-Tileset 1_101
+  - first:
+      213: -9197775976595923106
+    second: Simple-Forest-Tileset 1_102
+  - first:
+      213: -5710614762702856836
+    second: Simple-Forest-Tileset 1_103
+  - first:
+      213: -6756264186132217105
+    second: Simple-Forest-Tileset 1_104
+  - first:
+      213: -7631222974734047980
+    second: Simple-Forest-Tileset 1_105
+  - first:
+      213: -5376423247537310801
+    second: Simple-Forest-Tileset 1_106
+  - first:
+      213: -2538156807413670879
+    second: Simple-Forest-Tileset 1_107
+  - first:
+      213: 3366577857497005841
+    second: Simple-Forest-Tileset 1_108
+  - first:
+      213: -8850407312399344715
+    second: Simple-Forest-Tileset 1_109
+  - first:
+      213: 2570571686626473796
+    second: Simple-Forest-Tileset 1_110
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccd42430e820a910800000000000000
+      internalID: 1846520790634519750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51746b9b6f0741fd0800000000000000
+      internalID: -2372146898737412331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c735c5a9be45c5d0800000000000000
+      internalID: -3042939413961820219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2991476fb4ace0b0800000000000000
+      internalID: -5697998286552458962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bc93762fe697cf0800000000000000
+      internalID: -254049916576740476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b3cf4faefa18330800000000000000
+      internalID: 3711440991597378426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78f7f54241d50e20800000000000000
+      internalID: 3316286783200163965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d92024763a06ef40800000000000000
+      internalID: 5757300402632534487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4c3da3baab93e10800000000000000
+      internalID: 2177977139399476387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e51078a6b4ea570800000000000000
+      internalID: 8479798069288853065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4c32d7b1d23f7e0800000000000000
+      internalID: -1732991835520645951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6862e1524688fd480800000000000000
+      internalID: -8872222777195747706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e28010a540c203a0800000000000000
+      internalID: -6700581890303163677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e19f8fece84ea290800000000000000
+      internalID: -7877278515755773470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42315147b4a00d9c0800000000000000
+      internalID: -3904609557743856860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0485db6a9ee34950800000000000000
+      internalID: 6432247039816729610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1534dc2a4bbfff260800000000000000
+      internalID: 7133697088022201169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e4add7e3a8304f0800000000000000
+      internalID: -863694702520938908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d43dcf6b9592940800000000000000
+      internalID: 5271843481274502495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0193e77f9ece2d340800000000000000
+      internalID: 4887229035274189072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacc8797cb3bda090800000000000000
+      internalID: -8021557739203801938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5114cab5b4b8ae0f0800000000000000
+      internalID: -1086903204279729899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf44d54aa95a2670800000000000000
+      internalID: 8514716633348198351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad7dd233de3cc7f0800000000000000
+      internalID: -591028374279979606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de98b3c7e4b6dd90800000000000000
+      internalID: -7073267257224683818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36c09a7c31d02920800000000000000
+      internalID: 2963598612494337595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0820c7cd6d3245b80800000000000000
+      internalID: -8407055198664785280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44be5712ecba187b0800000000000000
+      internalID: -5223705190960075964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ca77b19937871e0800000000000000
+      internalID: -2199881316542469047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631a91117343b39c0800000000000000
+      internalID: -3946503237345369802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8435bef690f1a62f0800000000000000
+      internalID: -978935843606801592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a8323a23c78c140800000000000000
+      internalID: 4740175164734671459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9250696fd75b2a180800000000000000
+      internalID: -9105515943977155287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7efebaaa21f0c60800000000000000
+      internalID: 7786462804985243561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e98176f9e5984f00800000000000000
+      internalID: 1101294940986640871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec756c322f106780800000000000000
+      internalID: -8691913048922424092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bff48af133c2440800000000000000
+      internalID: 4912357504615185278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e04fc18a3d63fdb0800000000000000
+      internalID: -4759340283147108126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb25f68c949e1760800000000000000
+      internalID: 7430539835207920613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6efb4c85ca9ae80800000000000000
+      internalID: -8166806952001673494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fe8f318013bfb60800000000000000
+      internalID: 7780866691977244575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2422b089adfa4a6a0800000000000000
+      internalID: -6438828213844368830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4c03998a168c8a0800000000000000
+      internalID: -6284665903243017000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261e5502af5ed6990800000000000000
+      internalID: -7390998550998032030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01db7e6bdd3ee8530800000000000000
+      internalID: 3859272472099011856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_45
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f3c4d0f9ee70240800000000000000
+      internalID: 4758033898230529809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a81c8fbf6c17c50800000000000000
+      internalID: 6661324109370198555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079c45b34a2245580800000000000000
+      internalID: -8839402079856047760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cfee9363cddfbb0800000000000000
+      internalID: -4900518694050923502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_49
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2372bb693ad1c54f0800000000000000
+      internalID: -838762842152032462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a201867b11160870800000000000000
+      internalID: 8648618944061571748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_51
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b66aafbbb540860800000000000000
+      internalID: 7495216542773570390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ed1b51d1d3594b0800000000000000
+      internalID: -5434370180225311193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_53
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc13d0deecb4d4fc0800000000000000
+      internalID: -3509065182539337267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e070d0a303300e030800000000000000
+      internalID: 3521818414270973710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_55
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c503e64657acff3f0800000000000000
+      internalID: -864749997886918564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bf15f83e747c5d0800000000000000
+      internalID: -3042383980577817721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b9a9bfa74a7dcd0800000000000000
+      internalID: -2533375417258435826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_58
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fc88cba49998c00800000000000000
+      internalID: 903421746534207385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff0b4b2fdc7c2b50800000000000000
+      internalID: 6569763254372601841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_60
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b550168356dff7cd0800000000000000
+      internalID: -2558047452143745701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c7de0a1ec545bf0800000000000000
+      internalID: -336541948008629141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_62
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e44781978804770800000000000000
+      internalID: 8593018142705602091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b101e852dac777130800000000000000
+      internalID: 3564454713188290587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63046ae16d4110d90800000000000000
+      internalID: -7133397424908386250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9391b7f9138f74ae0800000000000000
+      internalID: -1565009453475227335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58af384dad1d13dd0800000000000000
+      internalID: -2507992779670160763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5426c250c8024530800000000000000
+      internalID: 3837639454588544094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644677762dba9b050800000000000000
+      internalID: 5816869313893065798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_69
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2d9da6659baa090800000000000000
+      internalID: -8022396005396131124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_70
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c45590a660e462e0800000000000000
+      internalID: -2133333592081345337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_71
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51132e5817647fb60800000000000000
+      internalID: 7779764334697263381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_72
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f0731ac9551edf0800000000000000
+      internalID: -152746781145886887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_73
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5838d98dea256aa00800000000000000
+      internalID: 767391697425236869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674945813492b02a0800000000000000
+      internalID: -6770272246673664906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_75
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9451c0c7240637900800000000000000
+      internalID: 680993807328351561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_76
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e2811d0e467f170800000000000000
+      internalID: 8212143362276863594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_77
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8d3478585b7b170800000000000000
+      internalID: 8194217632128555242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_78
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b100619780f93da20800000000000000
+      internalID: 3085985028418961435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5d399d6f385b260800000000000000
+      internalID: 7112736282737104340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_80
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6643048cc81387d80800000000000000
+      internalID: -8252791836431600538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_81
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22dd6b8c0b4848b0800000000000000
+      internalID: -5167798055156723154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7d74bb49fec5fe0800000000000000
+      internalID: -1198819978711148569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_83
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f77a36b6be3b2460800000000000000
+      internalID: 7217931782253606900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e83727f841d0140800000000000000
+      internalID: 4687425393495608883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_85
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5a5968b8ce24660800000000000000
+      internalID: 7368712024334116287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196db2da1686fa600800000000000000
+      internalID: 481718453878380177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_87
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6d2107543026af0800000000000000
+      internalID: -404757419742013772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6748117349fe7ad20800000000000000
+      internalID: 3289861472675529846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_89
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c93d9afa98c2be0800000000000000
+      internalID: -1500673188259718025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_90
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d330ab6f3825f45a0800000000000000
+      internalID: -6534913807557721283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_91
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e971f621e73299f80800000000000000
+      internalID: -8099403430467004514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c217996dd5905e20800000000000000
+      internalID: 3337332102073356995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_93
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a594d4a889d16d0800000000000000
+      internalID: -3018088455498802659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79af703ca6ec6670800000000000000
+      internalID: 8533449021182683516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_95
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfde44b558f9c8620800000000000000
+      internalID: 2777770465291464189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_96
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f0ba25916ff57a0800000000000000
+      internalID: -6386115157966516391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904f9cff3f1416e70800000000000000
+      internalID: 9106632437744137225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_98
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1eaea4a40caf560800000000000000
+      internalID: 7348397167325405666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2a3db60704309a0800000000000000
+      internalID: -6268095404780051742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_100
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74487a4d566d3c850800000000000000
+      internalID: 6396191628644025415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_101
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549016cfa5af046f0800000000000000
+      internalID: -702286273181578939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_102
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fd06f2b7fea5080800000000000000
+      internalID: -9197775976595923106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_103
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d9ef32122dfb0b0800000000000000
+      internalID: -5710614762702856836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_104
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe245e8d48dec32a0800000000000000
+      internalID: -6756264186132217105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_105
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4156d2de223781690800000000000000
+      internalID: -7631222974734047980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_106
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3f268ba8b1365b0800000000000000
+      internalID: -5376423247537310801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_107
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c5ed5d4d7a6ccd0800000000000000
+      internalID: -2538156807413670879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_108
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ffdc879bc78be20800000000000000
+      internalID: 3366577857497005841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_109
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbdaead0790d2580800000000000000
+      internalID: -8850407312399344715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Forest-Tileset 1_110
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4473c0b54518ca320800000000000000
+      internalID: 2570571686626473796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Simple-Forest-Tileset 1_0: 1846520790634519750
+      Simple-Forest-Tileset 1_1: -2372146898737412331
+      Simple-Forest-Tileset 1_10: -1732991835520645951
+      Simple-Forest-Tileset 1_100: 6396191628644025415
+      Simple-Forest-Tileset 1_101: -702286273181578939
+      Simple-Forest-Tileset 1_102: -9197775976595923106
+      Simple-Forest-Tileset 1_103: -5710614762702856836
+      Simple-Forest-Tileset 1_104: -6756264186132217105
+      Simple-Forest-Tileset 1_105: -7631222974734047980
+      Simple-Forest-Tileset 1_106: -5376423247537310801
+      Simple-Forest-Tileset 1_107: -2538156807413670879
+      Simple-Forest-Tileset 1_108: 3366577857497005841
+      Simple-Forest-Tileset 1_109: -8850407312399344715
+      Simple-Forest-Tileset 1_11: -8872222777195747706
+      Simple-Forest-Tileset 1_110: 2570571686626473796
+      Simple-Forest-Tileset 1_12: -6700581890303163677
+      Simple-Forest-Tileset 1_13: -7877278515755773470
+      Simple-Forest-Tileset 1_14: -3904609557743856860
+      Simple-Forest-Tileset 1_15: 6432247039816729610
+      Simple-Forest-Tileset 1_16: 7133697088022201169
+      Simple-Forest-Tileset 1_17: -863694702520938908
+      Simple-Forest-Tileset 1_18: 5271843481274502495
+      Simple-Forest-Tileset 1_19: 4887229035274189072
+      Simple-Forest-Tileset 1_2: -3042939413961820219
+      Simple-Forest-Tileset 1_20: -8021557739203801938
+      Simple-Forest-Tileset 1_21: -1086903204279729899
+      Simple-Forest-Tileset 1_22: 8514716633348198351
+      Simple-Forest-Tileset 1_23: -591028374279979606
+      Simple-Forest-Tileset 1_24: -7073267257224683818
+      Simple-Forest-Tileset 1_25: 2963598612494337595
+      Simple-Forest-Tileset 1_26: -8407055198664785280
+      Simple-Forest-Tileset 1_27: -5223705190960075964
+      Simple-Forest-Tileset 1_28: -2199881316542469047
+      Simple-Forest-Tileset 1_29: -3946503237345369802
+      Simple-Forest-Tileset 1_3: -5697998286552458962
+      Simple-Forest-Tileset 1_30: -978935843606801592
+      Simple-Forest-Tileset 1_31: 4740175164734671459
+      Simple-Forest-Tileset 1_32: -9105515943977155287
+      Simple-Forest-Tileset 1_33: 7786462804985243561
+      Simple-Forest-Tileset 1_34: 1101294940986640871
+      Simple-Forest-Tileset 1_35: -8691913048922424092
+      Simple-Forest-Tileset 1_36: 4912357504615185278
+      Simple-Forest-Tileset 1_37: -4759340283147108126
+      Simple-Forest-Tileset 1_38: 7430539835207920613
+      Simple-Forest-Tileset 1_39: -8166806952001673494
+      Simple-Forest-Tileset 1_4: -254049916576740476
+      Simple-Forest-Tileset 1_40: 7780866691977244575
+      Simple-Forest-Tileset 1_41: -6438828213844368830
+      Simple-Forest-Tileset 1_42: -6284665903243017000
+      Simple-Forest-Tileset 1_43: -7390998550998032030
+      Simple-Forest-Tileset 1_44: 3859272472099011856
+      Simple-Forest-Tileset 1_45: 4758033898230529809
+      Simple-Forest-Tileset 1_46: 6661324109370198555
+      Simple-Forest-Tileset 1_47: -8839402079856047760
+      Simple-Forest-Tileset 1_48: -4900518694050923502
+      Simple-Forest-Tileset 1_49: -838762842152032462
+      Simple-Forest-Tileset 1_5: 3711440991597378426
+      Simple-Forest-Tileset 1_50: 8648618944061571748
+      Simple-Forest-Tileset 1_51: 7495216542773570390
+      Simple-Forest-Tileset 1_52: -5434370180225311193
+      Simple-Forest-Tileset 1_53: -3509065182539337267
+      Simple-Forest-Tileset 1_54: 3521818414270973710
+      Simple-Forest-Tileset 1_55: -864749997886918564
+      Simple-Forest-Tileset 1_56: -3042383980577817721
+      Simple-Forest-Tileset 1_57: -2533375417258435826
+      Simple-Forest-Tileset 1_58: 903421746534207385
+      Simple-Forest-Tileset 1_59: 6569763254372601841
+      Simple-Forest-Tileset 1_6: 3316286783200163965
+      Simple-Forest-Tileset 1_60: -2558047452143745701
+      Simple-Forest-Tileset 1_61: -336541948008629141
+      Simple-Forest-Tileset 1_62: 8593018142705602091
+      Simple-Forest-Tileset 1_63: 3564454713188290587
+      Simple-Forest-Tileset 1_64: -7133397424908386250
+      Simple-Forest-Tileset 1_65: -1565009453475227335
+      Simple-Forest-Tileset 1_66: -2507992779670160763
+      Simple-Forest-Tileset 1_67: 3837639454588544094
+      Simple-Forest-Tileset 1_68: 5816869313893065798
+      Simple-Forest-Tileset 1_69: -8022396005396131124
+      Simple-Forest-Tileset 1_7: 5757300402632534487
+      Simple-Forest-Tileset 1_70: -2133333592081345337
+      Simple-Forest-Tileset 1_71: 7779764334697263381
+      Simple-Forest-Tileset 1_72: -152746781145886887
+      Simple-Forest-Tileset 1_73: 767391697425236869
+      Simple-Forest-Tileset 1_74: -6770272246673664906
+      Simple-Forest-Tileset 1_75: 680993807328351561
+      Simple-Forest-Tileset 1_76: 8212143362276863594
+      Simple-Forest-Tileset 1_77: 8194217632128555242
+      Simple-Forest-Tileset 1_78: 3085985028418961435
+      Simple-Forest-Tileset 1_79: 7112736282737104340
+      Simple-Forest-Tileset 1_8: 2177977139399476387
+      Simple-Forest-Tileset 1_80: -8252791836431600538
+      Simple-Forest-Tileset 1_81: -5167798055156723154
+      Simple-Forest-Tileset 1_82: -1198819978711148569
+      Simple-Forest-Tileset 1_83: 7217931782253606900
+      Simple-Forest-Tileset 1_84: 4687425393495608883
+      Simple-Forest-Tileset 1_85: 7368712024334116287
+      Simple-Forest-Tileset 1_86: 481718453878380177
+      Simple-Forest-Tileset 1_87: -404757419742013772
+      Simple-Forest-Tileset 1_88: 3289861472675529846
+      Simple-Forest-Tileset 1_89: -1500673188259718025
+      Simple-Forest-Tileset 1_9: 8479798069288853065
+      Simple-Forest-Tileset 1_90: -6534913807557721283
+      Simple-Forest-Tileset 1_91: -8099403430467004514
+      Simple-Forest-Tileset 1_92: 3337332102073356995
+      Simple-Forest-Tileset 1_93: -3018088455498802659
+      Simple-Forest-Tileset 1_94: 8533449021182683516
+      Simple-Forest-Tileset 1_95: 2777770465291464189
+      Simple-Forest-Tileset 1_96: -6386115157966516391
+      Simple-Forest-Tileset 1_97: 9106632437744137225
+      Simple-Forest-Tileset 1_98: 7348397167325405666
+      Simple-Forest-Tileset 1_99: -6268095404780051742
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

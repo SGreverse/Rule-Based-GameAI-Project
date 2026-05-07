@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6252b3574444c84084acf27861bfb45, type: 3}
+  m_Name: GoblinArcher
+  m_EditorClassIdentifier: Assembly-CSharp::Assets.Data.EnemyStats
+  maxHealth: 40
+  moveSpeed: 2.6
+  attackRange: 1.5
+  attackWidth: 1
+  Defence: 0
+  arrowSpeed: 15
+  MeleeDamage: 15
+  StubDamage: 15
+  ShotDamage: 20
+  MaxProjectilesAmount: 20
+  MaxPotionsAmount: 1
+  MaxShieldStamina: 10
+  enemyType: Goblin Archer
+  viewRadius: 9
+  viewAngle: 120

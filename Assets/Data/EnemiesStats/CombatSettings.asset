@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 354063dfd95e9cd469af696c0ccf856b, type: 3}
+  m_Name: CombatSettings
+  m_EditorClassIdentifier: Assembly-CSharp::Assets.Algorithm.Data.CombatSettingsSO
+  Flee_MaxTimeSinceLastDamage: 5
+  Flee_MaxMapDistance: 20
+  Defend_MaxShieldHoldTime: 5
+  Defend_MaxExpectedEnemies: 3
+  Heal_MaxTimeSinceLastDamage: 5
+  Heal_MaxImmunity: 100
+  Heal_MaxExpectedEnemies: 3
+  Attack_MaxPlayerHealth: 100
+  Attack_MaxKeyAmount: 3
+  Attack_MaxAttackingTeammates: 4
+  Attack_MaxPlayerMomentum: 5
+  Reload_MaxAttackingTeammates: 4
+  Reload_MaxTimeSinceLastDamage: 5
+  Charge_MaxExpectedEnemies: 4
+  Charge_MaxPlayerShieldStamina: 100
+  Shoot_SafeRadius: 1.5
+  Shoot_MaxPressureThreshold: 4
+  Flank_MaxExpectedDistractors: 4
+  Flank_MaxExpectedFlankers: 2
+  Flank_DirectionChangeTime: 3

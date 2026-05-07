@@ -1,0 +1,303 @@
+{
+  "mapSize": { "width": 100, "height": 100 },
+  "borderThickness": 2,
+
+  "fixedElements": {
+    "spawnPoint": { "x": 5, "y": 5 },
+    "keys": [
+      { "id": "west_key",  "x": 3,  "y": 50, "label": "Key 1 (West)" },
+      { "id": "south_key", "x": 50, "y": 3,  "label": "Key 2 (South)" },
+      { "id": "east_key",  "x": 97, "y": 50, "label": "Key 3 (East)" }
+    ],
+    "bossDoor": { "x": 50, "y": 97 }
+  },
+
+  "zones": [
+    {
+      "id": "spawn_glade",
+      "name": "Spawn Glade",
+      "bounds": { "xMin": 2, "xMax": 22, "yMin": 2, "yMax": 22 },
+      "floorWeights": { "grassLight": 0.45, "grassDark": 0.30, "dirtPath": 0.0, "stoneClean": 0.10, "stoneMossy": 0.15 },
+      "character": "overgrown_clearing"
+    },
+    {
+      "id": "southern_ruins",
+      "name": "Southern Ruins",
+      "bounds": { "xMin": 22, "xMax": 78, "yMin": 2, "yMax": 22 },
+      "floorWeights": { "grassLight": 0.25, "grassDark": 0.15, "dirtPath": 0.0, "stoneClean": 0.35, "stoneMossy": 0.25 },
+      "character": "crumbled_walkway"
+    },
+    {
+      "id": "se_wilds",
+      "name": "Southeast Wilds",
+      "bounds": { "xMin": 78, "xMax": 98, "yMin": 2, "yMax": 22 },
+      "floorWeights": { "grassLight": 0.30, "grassDark": 0.30, "dirtPath": 0.0, "stoneClean": 0.20, "stoneMossy": 0.20 },
+      "character": "forgotten_corner"
+    },
+    {
+      "id": "south_key_arena",
+      "name": "The Sunken Garden",
+      "bounds": { "xMin": 40, "xMax": 60, "yMin": 3, "yMax": 17 },
+      "floorWeights": { "grassLight": 0.20, "grassDark": 0.15, "dirtPath": 0.0, "stoneClean": 0.40, "stoneMossy": 0.25 },
+      "character": "sunken_garden"
+    },
+    {
+      "id": "western_forest",
+      "name": "Western Forest",
+      "bounds": { "xMin": 2, "xMax": 22, "yMin": 22, "yMax": 78 },
+      "floorWeights": { "grassLight": 0.45, "grassDark": 0.45, "dirtPath": 0.0, "stoneClean": 0.05, "stoneMossy": 0.05 },
+      "character": "dense_forest"
+    },
+    {
+      "id": "west_key_arena",
+      "name": "The Ancient Grove",
+      "bounds": { "xMin": 3, "xMax": 17, "yMin": 42, "yMax": 58 },
+      "floorWeights": { "grassLight": 0.30, "grassDark": 0.25, "dirtPath": 0.0, "stoneClean": 0.15, "stoneMossy": 0.30 },
+      "character": "ancient_grove"
+    },
+    {
+      "id": "central_ruins",
+      "name": "Central Ruins",
+      "bounds": { "xMin": 22, "xMax": 78, "yMin": 22, "yMax": 78 },
+      "floorWeights": { "grassLight": 0.25, "grassDark": 0.15, "dirtPath": 0.0, "stoneClean": 0.30, "stoneMossy": 0.30 },
+      "character": "overgrown_plaza"
+    },
+    {
+      "id": "eastern_cliffs",
+      "name": "Eastern Cliffs",
+      "bounds": { "xMin": 78, "xMax": 98, "yMin": 22, "yMax": 78 },
+      "floorWeights": { "grassLight": 0.20, "grassDark": 0.15, "dirtPath": 0.0, "stoneClean": 0.40, "stoneMossy": 0.25 },
+      "character": "rocky_cliffs"
+    },
+    {
+      "id": "east_key_arena",
+      "name": "The Stone Circle",
+      "bounds": { "xMin": 85, "xMax": 98, "yMin": 42, "yMax": 58 },
+      "floorWeights": { "grassLight": 0.10, "grassDark": 0.10, "dirtPath": 0.0, "stoneClean": 0.50, "stoneMossy": 0.30 },
+      "character": "stone_circle"
+    },
+    {
+      "id": "northern_approach",
+      "name": "Northern Approach",
+      "bounds": { "xMin": 22, "xMax": 78, "yMin": 78, "yMax": 98 },
+      "floorWeights": { "grassLight": 0.20, "grassDark": 0.15, "dirtPath": 0.0, "stoneClean": 0.40, "stoneMossy": 0.25 },
+      "character": "ruined_avenue"
+    },
+    {
+      "id": "boss_gate",
+      "name": "Boss Gate",
+      "bounds": { "xMin": 38, "xMax": 62, "yMin": 93, "yMax": 98 },
+      "floorWeights": { "grassLight": 0.05, "grassDark": 0.05, "dirtPath": 0.0, "stoneClean": 0.70, "stoneMossy": 0.20 },
+      "character": "ancient_gate"
+    },
+    {
+      "id": "ne_thicket",
+      "name": "Northeast Thicket",
+      "bounds": { "xMin": 78, "xMax": 98, "yMin": 78, "yMax": 98 },
+      "floorWeights": { "grassLight": 0.40, "grassDark": 0.40, "dirtPath": 0.0, "stoneClean": 0.05, "stoneMossy": 0.15 },
+      "character": "hidden_thicket"
+    },
+    {
+      "id": "nw_marsh",
+      "name": "Northwest Marsh",
+      "bounds": { "xMin": 2, "xMax": 22, "yMin": 78, "yMax": 98 },
+      "floorWeights": { "grassLight": 0.35, "grassDark": 0.45, "dirtPath": 0.0, "stoneClean": 0.05, "stoneMossy": 0.15 },
+      "character": "marsh"
+    }
+  ],
+
+  "river": {
+    "mainChannel": {
+      "id": "twin_rivers",
+      "name": "Twin Rivers",
+      "segments": [
+        { "xMin": 25, "xMax": 29, "yMin": 5, "yMax": 95, "depth": "deep" },
+        { "xMin": 71, "xMax": 75, "yMin": 5, "yMax": 95, "depth": "deep" }
+      ]
+    },
+    "branch": {
+      "id": "northern_connector",
+      "type": "horizontal",
+      "start": { "x": 27, "y": 80 },
+      "end": { "x": 73, "y": 80 },
+      "width": 5,
+      "depth": "deep"
+    },
+	"ponds": [
+      { "id": "west_arena_pond",  "xMin": 6,  "xMax": 14, "yMin": 62, "yMax": 68, "depth": "shallow" },
+      { "id": "south_arena_pool", "xMin": 48, "xMax": 52, "yMin": 7,  "yMax": 11, "depth": "shallow" },
+      { "id": "boss_moat_west",   "xMin": 36, "xMax": 44, "yMin": 92, "yMax": 97, "depth": "deep" },
+      { "id": "boss_moat_east",   "xMin": 56, "xMax": 64, "yMin": 92, "yMax": 97, "depth": "deep" },
+      { "id": "nw_marsh_pool",    "xMin": 5,  "xMax": 15, "yMin": 85, "yMax": 92, "depth": "shallow" }
+    ]
+  },
+
+	"bridges": [
+    { "id": "spawn_bridge",  "name": "Spawn Bridge",  "xMin": 23, "xMax": 31, "yMin": 10, "yMax": 15, "passableWidth": 4, "character": "stone" },
+    { "id": "south_bridge",  "name": "South Bridge",  "xMin": 23, "xMax": 31, "yMin": 29, "yMax": 34, "passableWidth": 4, "character": "stone" },
+    { "id": "west_crossing", "name": "West Crossing", "xMin": 23, "xMax": 31, "yMin": 48, "yMax": 52, "passableWidth": 4, "character": "stone" },
+    { "id": "east_crossing", "name": "East Crossing", "xMin": 69, "xMax": 77, "yMin": 48, "yMax": 52, "passableWidth": 4, "character": "stone" },
+    { "id": "north_crossing","name": "North Crossing","xMin": 48, "xMax": 52, "yMin": 75, "yMax": 85, "passableWidth": 4, "character": "stone" }
+  ],
+
+  "arenas": [
+    {
+      "id": "west_ancient_grove",
+      "name": "The Ancient Grove",
+      "outerBoundary": { "xMin": 3, "xMax": 17, "yMin": 42, "yMax": 58 },
+      "entrances": [
+        { "side": "east",  "x": 17, "yMin": 48, "yMax": 52, "xMin": 17, "xMax": 17, "sealed": false },
+        { "side": "south", "y": 42, "xMin": 8,  "xMax": 12, "yMin": 42, "yMax": 42, "sealed": false }
+      ],
+      "features": {
+        "centerTree":  { "x": 10, "y": 50, "radius": 2 },
+        "stoneRing":   { "centerX": 10, "centerY": 50, "innerRadius": 3, "outerRadius": 5 },
+        "rocks": [
+          { "x": 5,  "y": 44 }, { "x": 14, "y": 44 },
+          { "x": 5,  "y": 56 }, { "x": 14, "y": 56 },
+          { "x": 4,  "y": 50 }, { "x": 16, "y": 50 }
+        ]
+      }
+    },
+    {
+      "id": "south_sunken_garden",
+      "name": "The Sunken Garden",
+      "outerBoundary": { "xMin": 40, "xMax": 60, "yMin": 3, "yMax": 17 },
+      "entrances": [
+        { "side": "north", "y": 17, "xMin": 48, "xMax": 52, "yMin": 17, "yMax": 17, "sealed": false },
+        { "side": "west",  "x": 40, "yMin": 8,  "yMax": 12, "xMin": 40, "xMax": 40, "sealed": false },
+        { "side": "east",  "x": 60, "yMin": 8,  "yMax": 12, "xMin": 60, "xMax": 60, "sealed": false }
+      ],
+      "features": {
+        "pillars": [
+          { "x": 44, "y": 7  }, { "x": 44, "y": 13 },
+          { "x": 50, "y": 7  }, { "x": 50, "y": 13 },
+          { "x": 56, "y": 7  }, { "x": 56, "y": 13 }
+        ],
+        "centralPool": { "xMin": 47, "xMax": 53, "yMin": 5, "yMax": 9 }
+      }
+    },
+    {
+      "id": "east_stone_circle",
+      "name": "The Stone Circle",
+      "outerBoundary": { "xMin": 85, "xMax": 98, "yMin": 42, "yMax": 58 },
+      "entrances": [
+        { "side": "west",  "x": 85, "yMin": 48, "yMax": 52, "xMin": 85, "xMax": 85, "sealed": false },
+        { "side": "north", "y": 58, "xMin": 90, "xMax": 93, "yMin": 58, "yMax": 58, "sealed": false }
+      ],
+      "features": {
+        "standingStones": [
+          { "x": 88, "y": 45 }, { "x": 95, "y": 45 },
+          { "x": 87, "y": 50 }, { "x": 96, "y": 50 },
+          { "x": 88, "y": 55 }, { "x": 95, "y": 55 }
+        ],
+        "centerAltar": { "xMin": 90, "xMax": 93, "yMin": 49, "yMax": 51 }
+      }
+    }
+  ],
+
+  "chokePoints": [
+    {
+      "id": "spawn_exit",
+      "location": { "xMin": 20, "xMax": 24, "yMin": 17, "yMax": 22 },
+      "obstacles": [
+        { "xMin": 20, "xMax": 21, "yMin": 17, "yMax": 20, "type": "rock" },
+        { "xMin": 23, "xMax": 24, "yMin": 19, "yMax": 22, "type": "rock" }
+      ],
+      "passageWidth": 2
+    },
+    {
+      "id": "central_narrows",
+      "location": { "xMin": 35, "xMax": 40, "yMin": 35, "yMax": 40 },
+      "obstacles": [
+        { "xMin": 35, "xMax": 37, "yMin": 35, "yMax": 37, "type": "ruin_wall" },
+        { "xMin": 38, "xMax": 40, "yMin": 38, "yMax": 40, "type": "ruin_wall" }
+      ],
+      "passageWidth": 2
+    },
+    {
+      "id": "forest_squeeze",
+      "location": { "xMin": 13, "xMax": 18, "yMin": 30, "yMax": 35 },
+      "obstacles": [
+        { "xMin": 13, "xMax": 15, "yMin": 30, "yMax": 33, "type": "trees" },
+        { "xMin": 16, "xMax": 18, "yMin": 32, "yMax": 35, "type": "trees" }
+      ],
+      "passageWidth": 2
+    },
+    {
+      "id": "eastern_gap",
+      "location": { "xMin": 75, "xMax": 80, "yMin": 35, "yMax": 40 },
+      "obstacles": [
+        { "xMin": 75, "xMax": 77, "yMin": 35, "yMax": 37, "type": "rock" },
+        { "xMin": 78, "xMax": 80, "yMin": 38, "yMax": 40, "type": "rock" }
+      ],
+      "passageWidth": 2
+    },
+    {
+      "id": "northern_gate",
+      "location": { "xMin": 45, "xMax": 55, "yMin": 88, "yMax": 93 },
+      "obstacles": [
+        { "xMin": 45, "xMax": 47, "yMin": 88, "yMax": 93, "type": "ruin_wall" },
+        { "xMin": 53, "xMax": 55, "yMin": 88, "yMax": 93, "type": "ruin_wall" },
+        { "xMin": 48, "xMax": 49, "yMin": 90, "yMax": 91, "type": "pillar" },
+        { "xMin": 51, "xMax": 52, "yMin": 90, "yMax": 91, "type": "pillar" }
+      ],
+      "passageWidth": 2
+    }
+  ],
+
+  "centralCover": {
+    "ruinPillars": [
+      { "x": 28, "y": 28 }, { "x": 28, "y": 50 }, { "x": 28, "y": 72 },
+      { "x": 72, "y": 28 }, { "x": 72, "y": 50 }, { "x": 72, "y": 72 }
+    ],
+    "rockClusters": [
+      { "xMin": 30, "xMax": 31, "yMin": 40, "yMax": 41 },
+      { "xMin": 68, "xMax": 69, "yMin": 40, "yMax": 41 },
+      { "xMin": 30, "xMax": 31, "yMin": 60, "yMax": 61 },
+      { "xMin": 68, "xMax": 69, "yMin": 60, "yMax": 61 }
+    ],
+    "ruinWallFragments": [
+      { "xMin": 33, "xMax": 38, "yMin": 55, "yMax": 55 },
+      { "xMin": 62, "xMax": 67, "yMin": 45, "yMax": 45 },
+      { "xMin": 55, "xMax": 55, "yMin": 30, "yMax": 34 },
+      { "xMin": 45, "xMax": 45, "yMin": 66, "yMax": 70 }
+    ]
+  },
+
+  "northernApproachCover": {
+    "rows": [
+      { "y": 84, "barriers": [{ "xMin": 35, "xMax": 37 }, { "xMin": 50, "xMax": 52 }, { "xMin": 63, "xMax": 65 }] },
+      { "y": 88, "barriers": [{ "xMin": 38, "xMax": 40 }, { "xMin": 55, "xMax": 57 }, { "xMin": 60, "xMax": 62 }] },
+      { "y": 91, "barriers": [{ "xMin": 42, "xMax": 44 }, { "xMin": 56, "xMax": 58 }] }
+    ]
+  },
+
+  "scatteredTrees": [
+    { "x": 8,  "y": 15 }, { "x": 15, "y": 8  }, { "x": 18, "y": 18 },
+    { "x": 6,  "y": 30 }, { "x": 12, "y": 65 }, { "x": 8,  "y": 72 },
+    { "x": 15, "y": 38 }, { "x": 5,  "y": 85 }, { "x": 10, "y": 92 },
+    { "x": 25, "y": 8  }, { "x": 70, "y": 8  }, { "x": 80, "y": 15 },
+    { "x": 92, "y": 25 }, { "x": 90, "y": 65 }, { "x": 85, "y": 80 },
+    { "x": 30, "y": 75 }, { "x": 65, "y": 25 }, { "x": 35, "y": 28 },
+    { "x": 60, "y": 75 }, { "x": 15, "y": 90 }, { "x": 88, "y": 88 },
+    { "x": 93, "y": 35 }, { "x": 40, "y": 65 }, { "x": 58, "y": 32 }
+  ],
+
+  "encounters": {
+    "restZones": [
+      { "xMin": 3,  "xMax": 10, "yMin": 3,  "yMax": 10, "id": "spawn_safe" },
+      { "xMin": 5,  "xMax": 10, "yMin": 62, "yMax": 68, "id": "forest_clearing" },
+      { "xMin": 3,  "xMax": 10, "yMin": 85, "yMax": 92, "id": "nw_marsh_rest" },
+      { "xMin": 82, "xMax": 90, "yMin": 82, "yMax": 90, "id": "ne_thicket_rest" },
+      { "xMin": 45, "xMax": 55, "yMin": 85, "yMax": 88, "id": "pre_boss_rest" }
+    ],
+    "rewards": [
+      { "id": "nw_lore",     "x": 6,  "y": 88,  "type": "lore" },
+      { "id": "ne_weapon",   "x": 93, "y": 85,  "type": "rare_weapon" },
+      { "id": "center_cache","x": 50, "y": 50,  "type": "cache" },
+      { "id": "west_hidden", "x": 4,  "y": 35,  "type": "health_upgrade" },
+      { "id": "east_secret", "x": 96, "y": 30,  "type": "ammo_upgrade" }
+    ]
+  }
+}
