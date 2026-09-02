@@ -11,5 +11,5 @@ The project was made fully in unity and visual studio 2022.
 
 The main focus of the project was the implementation of a game AI from scrath without using any external tools or built-in algorithms.
 
-If you know hwo to speak Hebrew, i have provided inside the repo a pdf that describes fully and throughly my project book i submitted with the project, that contains all the needed information to understand how most things work.
+If you know how to speak Hebrew, i have provided inside the repo a pdf that describes fully and throughly my project book i submitted with the project, that contains all the needed information to understand how most things work.
 
