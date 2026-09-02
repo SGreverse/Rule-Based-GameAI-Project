@@ -1,4 +1,4 @@
-# Rule-Based-GameAI-Project
+# Rule-Based Game AI Project
 This is the final project i made for 13th grade to show my knowledge in data structures and algorithms and how i can use researched algorithms to solve an NP-HARD problem.
 
 # DISCLAIMER 
